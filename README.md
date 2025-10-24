@@ -106,16 +106,16 @@ Converted["_UICorner"].Parent = Converted["_Frame"]
 Converted["_UIStroke"].Color = Color3.fromRGB(113.00000846385956, 113.00000846385956, 113.00000846385956)
 Converted["_UIStroke"].Parent = Converted["_Frame"]
 
-Converted["_za_anchub"].BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Converted["_za_anchub"].BorderColor3 = Color3.fromRGB(0, 0, 0)
-Converted["_za_anchub"].BorderSizePixel = 0
-Converted["_za_anchub"].Position = UDim2.new(0.0150944544, 0, 0.00973702129, 0)
-Converted["_za_anchub"].Size = UDim2.new(0.321083158, 0, 0.125, 0)
-Converted["_za_anchub"].Name = "za_anchub"
-Converted["_za_anchub"].Parent = Converted["_Frame"]
+Converted["_Rucus125hub"].BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_Rucus125hub"].BorderColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_Rucus125hub"].BorderSizePixel = 0
+Converted["_Rucus125hub"].Position = UDim2.new(0.0150944544, 0, 0.00973702129, 0)
+Converted["_Rucus125hub"].Size = UDim2.new(0.321083158, 0, 0.125, 0)
+Converted["_Rucus125hub"].Name = "Rucus125hub"
+Converted["_Rucus125hub"].Parent = Converted["_Frame"]
 
 Converted["_TextLabel"].Font = Enum.Font.Unknown
-Converted["_TextLabel"].Text = "Za_anc Hub"
+Converted["_TextLabel"].Text = "Rucus125 Hub"
 Converted["_TextLabel"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextLabel"].TextScaled = true
 Converted["_TextLabel"].TextSize = 10
@@ -127,9 +127,9 @@ Converted["_TextLabel"].BorderSizePixel = 0
 Converted["_TextLabel"].Size = UDim2.new(0.993975878, 0, 1, 0)
 Converted["_TextLabel"].Parent = Converted["_za_anchub"]
 
-Converted["_UICorner1"].Parent = Converted["_za_anchub"]
+Converted["_UICorner1"].Parent = Converted["_Rucus125hub"]
 
-Converted["_UIStroke1"].Parent = Converted["_za_anchub"]
+Converted["_UIStroke1"].Parent = Converted["_Rucus125hub"]
 
 Converted["_Infyield"].Font = Enum.Font.Michroma
 Converted["_Infyield"].Text = "Infinite Yield"
